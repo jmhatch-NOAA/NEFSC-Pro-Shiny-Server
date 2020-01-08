@@ -2,8 +2,7 @@
 R Shiny Working Group (DOC / NOAA / NMFS / NEFSC)
 
 ## To do list:
-1.
-2.
+1. Draft guidance document
 
 ## Getting started:
 ![](images/shiny-cheatsheet-1.png)
