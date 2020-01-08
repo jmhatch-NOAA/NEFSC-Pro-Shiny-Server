@@ -5,6 +5,6 @@ R Shiny Working Group (DOC / NOAA / NMFS / NEFSC)
 1.
 2.
 
-## Getting started
+## Getting started:
 ![](images/shiny-cheatsheet-1.png)
 ![](images/shiny-cheatsheet-2.png)
