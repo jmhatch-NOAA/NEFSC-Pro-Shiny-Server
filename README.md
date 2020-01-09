@@ -4,6 +4,7 @@ Expiration date: 11/11/2020
 
 ## To do list:
 1. Draft guidance document
+2. Strategize about long-term funding
 
 ## Presentations:
 [Meeting - 01/16/2020](https://github.com/PSB-Turtle/NEFSC-Pro-Shiny-Server/blob/master/presentations/NEFSC_Pro_Shiny_Server_Presentation.pdf)
