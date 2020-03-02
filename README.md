@@ -2,6 +2,9 @@
 R Shiny Working Group (DOC / NOAA / NMFS / NEFSC)\
 Expiration date: 11/11/2020
 
+## Administrator's guide
+[Shiny Server Professional v1.5.12](https://docs.rstudio.com/shiny-server/)
+
 ## To do list:
 1. Draft guidance document
 2. Strategize about long-term funding
